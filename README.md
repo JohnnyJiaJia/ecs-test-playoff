@@ -1,5 +1,5 @@
 # ecs-test-playoff
-2018华为软件精英挑战赛复试
+2018华为软件精英挑战赛复赛
 http://codecraft.devcloud.huaweicloud.com/
 
 ## 预测部分：
